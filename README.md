@@ -24,6 +24,14 @@ Collection of SolidWorks automation macros:
 
 ### Cut List to STEP
 
+## 📸 Screenshots
+
+### Excel Report
+![Excel](Cut_List_to_STEP/screenshots/excel_report.png)
+
+### STEP Files
+![STEP](Cut_List_to_STEP/screenshots/step_files.png)
+
 Макрос для:
 - экспорта элементов weldment в STEP
 - автоматического именования файлов
