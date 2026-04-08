@@ -39,9 +39,8 @@ Collection of SolidWorks automation macros:
 
 ## 📁 Структура проекта
 Cut_List_to_STEP/
-├─ src/
-│ └─ Cut_List_to_step_v2_2_STABLE.swp
-
+ ├─ src/
+ │ └─ Cut_List_to_step_v2_2_STABLE.swp
 ---
 
 ## 🔄 Changelog
